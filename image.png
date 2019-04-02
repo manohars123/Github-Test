@@ -1,88 +1,30 @@
-Today's status 21-02-2019
-
-1. Jitterbit Harmony trial account creation. 30 Min
-2. Jitterbit Harmony Agent and Studio, Oracle DB installation 2 Hrs
-3. Studied Harmony Design Studio basics. 3 Hrs
-4. Worked on basic object configuration (DB Source, Target, test transformation etc.)-1.30 Hrs.
-
-
-Today's status 22-02-2019
-1. Jitterbit Harmony account creation and installation with jitterbit ID- 2Hrs
-2. Complted Account Creation with - gsuite account, Slack, JIRA, jitterbit university, - 2Hrs
-3. Created simple transformation type operation(CSV-to-CSV),(CSV-to-DB),(DB-to-CSV with Condition) -3Hrs 
-
-
--Weekly Summary
-1. No. of calls with bobby-1
-2. worked on Jitterbit Harmony account creation and software installation 
-3. Studied about Harmony Design Studio and basic feature on success central.
-4. Session with Ritesh= 4
-5. Worked on basic component configuration and operations. 
-
-Today's Status 25-02-2019
-1. Studied Web Service Method use in transformation - 1Hrs
-2. Created transformation type operation(Text-to-JSON),Web Service Method -3Hrs
-3. Studing On Connector and SOAP and REST API - 2Hrs
-
-Today's Status 26-02-2019
-1. Review Design Studio Seles force Connector - done - 2Hrs
-2. Overview Jitterbit Foundations Training Course - WIP - 3Hrs
-3. Connector QA Process/Projects - call with bobby
-4. ConnSDK Handoff - Amazon S3 - Call with Deepak, Bobby, Kaushik
-
-Today's Status 27-02-2019
-1. Connector QA Process/Projects - call with bobby
-2. Session with Punit for Installation -3Hrs
-3. Overview Jitterbit Foundations Training Course - WIP - 1:30Hrs
-
-Today's Status 28-02-2019
-1. Overview Jitterbit Foundations Training Course - 1:30Hrs
-2. Create JIRA tickets for Slack,JIRA and Amazon S3 - 0:30Hrs
-3. Learning Calculator web service for transformation - 1:30Hrs
-4. Training from Ritesh by architecture overview - 1:30Hrs
-
-Today's Status 01-03-2019
-1. Watch available videos for JBU Cloud Studio
-2. Createing simple transformation type operation(CSV-to-CSV) on Cloud Studio (Using FTP)
-
-
--Weekly Summary
-1. Overview Jitterbit Foundations Training Course
-2. Training from Ritesh by architecture overview
-3. Created transformation type operation(Text-to-JSON),Web Service Method
-4. Watch available videos for JBU Cloud Studio - WIP
-5. ConnSDK Handoff - Amazon S3 - Call with Deepak, Bobby, Kaushik
-6. Create simple transformation type operation(CSV-to-CSV) on Cloud Studio - WIP
-
-Weekly summary from 4th Mar to 8th Mar, 2019
-1. Test Account creation is completed for Box, Jira, Slack
-2. Chapter 2 and 3 is completed with certification
-3. Transformation Course from Cloud studio
-4. Go through documentation part of Slack
-5. Test Case Writing of Slack
-
--Weekly Summary 15-03-2019
-1. foundation Chapter 3 is finished and get certification
-2. Reviewing slack documents
-3. Configuration and Start testing Slack connector  
-4. test cases Add / Update on Slack
-
-Weekly Summary :- 18th March - 22nd March 2019
-1. Demo on Smartsheet, magento, git hub and constant contact
-2. Slack and Box testing and reported issue (Tested with jitterbit Agent 10.0.0.10)
-3. Box and Git hub testing with Agent 10.0.0.13 
-
-Weekly Summary from 25th March 2019 to 29th March 2019
-1. Checked Slack, Box, Github connectors with Agent 10.0.0.15
-2. Demo on Constant Contact and HubSpot
-3. Checked Slack, Box connectors with Linux Agent 10.0.0.15
-4. Tested Issues which was resolved JIT-21121,JIT-20831,JIT-20432
-5. Testing Continous with Github Connector windows and Linux
-
-
-
-
-
-
-
-
+[
+	{
+		color: "red",
+		value: "#f00"
+	},
+	{
+		color: "green",
+		value: "#0f0"
+	},
+	{
+		color: "blue",
+		value: "#00f"
+	},
+	{
+		color: "cyan",
+		value: "#0ff"
+	},
+	{
+		color: "magenta",
+		value: "#f0f"
+	},
+	{
+		color: "yellow",
+		value: "#ff0"
+	},
+	{
+		color: "black",
+		value: "#000"
+	}
+]
